@@ -1,0 +1,7 @@
+# Tests Requirements
+tavern==1.12.2
+yamllint==1.26.0
+
+# Reporting Requirements
+graphyte==1.6.0
+junitparser==2.0.0
